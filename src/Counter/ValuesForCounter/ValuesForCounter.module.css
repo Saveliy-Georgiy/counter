@@ -1,0 +1,25 @@
+.valueBlock {
+    font-size: 25px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 15px;
+    border: 3px solid blue;
+    width: 320px;
+    vertical-align: middle;
+    justify-content: center;
+    height: 120px;
+    align-items: center;
+}
+
+.valueInput {
+    font-size: 20px;
+    width: 120px;
+}
+
+.incorrectValues {
+    background-color: #f09dae;
+    border: 3px solid red;
+
+}
